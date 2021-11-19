@@ -16,7 +16,7 @@ Desenvolvendo durante as aulas de Programa para Dispositivos Móveis da Fatec Pr
 
 ## Licença
 
-Esse projeto está sob a licença GNU General Public License (GPL). Acesse [LICENSE](https://github.com/pereira-lucas-santos96/Calculadora_IMC/blob/master/License.md) para mais detalhes.
+Esse projeto está sob a licença GNU General Public License (GPL). Acesse [LICENSE](https://github.com/pereira-lucas-santos96/Mobile_Flutter/blob/master/License.md) para mais detalhes.
 
 ------
 
